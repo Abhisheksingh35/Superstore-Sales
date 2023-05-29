@@ -3,6 +3,16 @@
 ## Introducing the Superstore Sales Distribution Dashboard:
 A powerful tool that provides a comprehensive view of sales distribution across various dimensions. Utilizing data analysis methods, specifically focusing on time series analysis, to provide valuable insights, precise sales predictions, and the development of interactive dashboards, contributing to the achievement of business objectives.📊📉
 
+### Tools used- Microsoft Power BI, Microsoft Excel
+
+### Operations performed-
+✅ Data Gathering
+✅ Data Cleaning
+✅ Data Transformation
+✅ DAX
+✅ Data Visualization
+✅ Sharing Insights
+
 ### 📍 Insights Across Multiple Dimensions:
 This dynamic dashboard allows you to explore and analyze sales distribution based on categories, subcategories, ship modes, regions, and segments. By diving into these dimensions, you can uncover valuable insights about which products, regions, and customer segments are driving sales growth and profitability.
 
